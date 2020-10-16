@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://i.pinimg.com/originals/36/55/12/3655127ddf42fc7effb09061e699b26b.jpg/>
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://i.pinimg.com/originals/c2/54/91/c2549168eca687d510606d84a2c02b6f.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
