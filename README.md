@@ -24,7 +24,7 @@
   <img alt="Happy" src="https://i.pinimg.com/originals/c2/54/91/c2549168eca687d510606d84a2c02b6f.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💛 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -33,13 +33,13 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [handlebars](https://handlebarsjs.com/)
 
-## 💻 Projeto
+## 💛 Projeto
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💛
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
-## 🔖 Layout
+## 💛 Layout
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
@@ -48,7 +48,7 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 📝 Licença
+## 💛 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
